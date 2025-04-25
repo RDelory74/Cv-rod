@@ -5,7 +5,7 @@
         <div class="side-container-left">
           <img src="@/assets/picturerod.png" alt="Profile" class="profile-image-home"/>
           <div claa="side-container-right">
-            <h1 class="intro-home">Rodolphe Delroy Test</h1>
+            <h1 class="intro-home">Rodolphe Delory</h1>
             <div class="side-container-text-home">
               <p class="intro-home">
                 Après 10 ans dans le secteur des articles de sport, où j’ai développé une expertise en relations
